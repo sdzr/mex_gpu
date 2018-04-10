@@ -1,0 +1,11 @@
+﻿  vecReducedVec.cpp
+  gmresm.cpp
+c:\users\sdzr\desktop\待分类\新论文题目\cuda\newpaper3\newpaper3\gmresm.cpp(26): warning C4474: printf: 格式字符串中传递的参数太多
+  c:\users\sdzr\desktop\待分类\新论文题目\cuda\newpaper3\newpaper3\gmresm.cpp(26): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  正在生成代码...
+c:\users\sdzr\desktop\待分类\新论文题目\cuda\newpaper3\newpaper3\gmresm.cpp(36): error C4716: “gmresm”: 必须返回一个值
+  正在编译...
+  getMatrix.cpp
+c:\users\sdzr\desktop\待分类\新论文题目\cuda\newpaper3\newpaper3\getmatrix.cpp(17): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+  正在生成代码...
